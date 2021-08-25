@@ -1,7 +1,13 @@
 # Incrementor & Decrementor Bascially like a pump & Dump
 
-Start UI:
-
+To Start and build program run:
 ```
-yarn && yarn build && yarn ui
+yarn
+```
+```
+yarn build
+```
+Finally to start the user interface:
+```
+yarn ui
 ```
